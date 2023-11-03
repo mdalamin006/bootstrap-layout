@@ -1,0 +1,18 @@
+.header, .hero, .body, .footer,.bar{
+background-color: thistle;
+margin-bottom: 30px;
+}
+.box{
+    margin:10px 0;
+    padding:30px;
+    background-color: rgb(173, 54, 54);
+    min-height: 90px;
+    font-size: 30px;
+    color:wheat;
+}
+.red{
+    background-color: rgb(255, 0, 0);
+}
+.lime{
+    background-color: rgb(105, 179, 105);
+}
